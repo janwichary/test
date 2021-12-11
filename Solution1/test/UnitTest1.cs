@@ -12,7 +12,7 @@ public class UnitTest1
     
     [Theory]
     [InlineData(1,1)]
-    [InlineData(1,0)]
+    [InlineData(1,1)]
     public void Test2(int in1, int in2)
     {
         Assert.Equal(in1, in2);

@@ -5978,11 +5978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JanWichary\\RiderProjects\\Solution1\\test\\test.csproj",
+      "projectUniqueName": "C:\\Tiplu\\test\\Solution1\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\JanWichary\\RiderProjects\\Solution1\\test\\test.csproj",
+      "projectPath": "C:\\Tiplu\\test\\Solution1\\test\\test.csproj",
       "packagesPath": "C:\\Users\\JanWichary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JanWichary\\RiderProjects\\Solution1\\test\\obj\\",
+      "outputPath": "C:\\Tiplu\\test\\Solution1\\test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JanWichary\\AppData\\Roaming\\NuGet\\NuGet.Config",
